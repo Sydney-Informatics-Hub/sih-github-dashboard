@@ -1,5 +1,5 @@
 ---
-title: SIH Github Dashboard
+title: SIH GitHub Dashboard
 theme: [deep-space, parchment, wide]
 ---
 
